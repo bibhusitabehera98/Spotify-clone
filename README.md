@@ -1,4 +1,4 @@
-#This repository contains a responsive clone of the Spotify web interface, created using only HTML and CSS. The project demonstrates how to design a visually appealing and functional layout without the use of JavaScript or any front-end frameworks.
+This repository contains a responsive clone of the Spotify web interface, created using only HTML and CSS. The project demonstrates how to design a visually appealing and functional layout without the use of JavaScript or any front-end frameworks.
 
 # 🌟 Features
 1. Responsive Design: Adaptable to various screen sizes, providing a seamless user experience on desktops, tablets, and mobile devices.
